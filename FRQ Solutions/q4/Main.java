@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    System.out.println("2024 FRQ #4");
+    System.out.println("2024 AP CSA FRQ Question 4:");
 
     int[][] grid1 = {{12, 3, 4, 13, 5},
                      {11, 21, 2, 14, 16},
