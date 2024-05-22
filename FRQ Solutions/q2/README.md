@@ -1,1 +1,13 @@
+# 2024 Question 2
 
+## This question is about...
+- Create a custom class that represents a scoreboard for a sporting event
+- Mangaging all of the data, such as team names, scores, and which team is active
+- Updating instance variables to keep track of when a team scored
+- Creating an output statement to show the current standing of the game
+  
+## Struggles with this question...
+
+## Prior expereiences that helped...
+
+## What I learned by doing this question...
