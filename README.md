@@ -3,4 +3,4 @@
 ## Marking Period 3 Work
 
 ### In this repository:
-- My solutions to 2024 Free Response Questions (FRQ) AP CSA 
+- My solutions to 2024 AP CSA exam Free Response Questions (FRQ)
