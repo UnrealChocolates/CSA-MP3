@@ -1,8 +1,9 @@
 public class Main {
   public static void main(String[] args) {
     System.out.println("2024 AP CSA FRQ Question 1:");
-
+    
     Feeder f1 = new Feeder(100000);
+    // for testing purposes uncomment it
     // System.out.println(f1.getCurrentFood());
     // f1.simulateOneDay(12);
     // System.out.println(f1.getCurrentFood());
