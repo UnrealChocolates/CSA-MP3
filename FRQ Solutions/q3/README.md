@@ -12,7 +12,7 @@ analysis.
 
 
 ## Prior expereiences that helped...
-
+- The prior experiences that helped was the use of the for loop and for loop in looping through the index of the array
 
 
 ## What I learned by doing this question...
