@@ -12,9 +12,9 @@ analysis.
 
 
 ## Prior expereiences that helped...
-- The prior experiences that helped was the use of the for loop and for loop in looping through the index of the array
+- The prior experiences that helped was the use of the for loop and for loop in looping through the index of the array and if statements to check if the boolean is true or not.
 
 
 ## What I learned by doing this question...
-
+- (word.indexOf(insertwordhere) is a boolean statement
 
