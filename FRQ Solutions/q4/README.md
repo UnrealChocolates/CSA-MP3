@@ -10,7 +10,7 @@ the row and the second index is used to specify the column.
 
 
 ## Prior expereiences that helped...
-- The prior experience of making two classes and calling methods from each of the two classes, the usage and knowledges between the differences and uses of while and for loops helped with looping across the grid as well as allowing for 
+- The prior experience of making two classes and calling methods from each of the two classes, the usage and knowledges between the differences and uses of while and for loops helped with looping across the grid as well as allowing for the code to check on the right and bottom grid to see which value is lower or higher and continue to until the loop can be stopped reaching the end of the grid.
 
 
 ## What I learned by doing this question...
